@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd27edd-d151-4f98-80d3-e435935c3e8a" name="Default Changelist" comment="day 05">
-      <change afterPath="$PROJECT_DIR$/day05/src/arrayss/ArrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/arrayss/ArrayAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/arrayss/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/arrayss/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/arrayss/Yanghui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.Yanghui">
     <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayss.ArrayAdd" />
       <module name="day05" />
@@ -113,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="breakexer.homework01" />
-      <module name="day04" />
+    <configuration name="Yanghui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayss.Yanghui" />
+      <module name="day05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="breakexer.*" />
+          <option name="PATTERN" value="arrayss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Yanghui" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.ArrayAdd" />
       </list>
@@ -160,7 +158,7 @@
       <workItem from="1659926676860" duration="309000" />
       <workItem from="1659927007475" duration="4872000" />
       <workItem from="1659957954404" duration="59000" />
-      <workItem from="1659958043807" duration="3261000" />
+      <workItem from="1659958043807" duration="6202000" />
     </task>
     <task id="LOCAL-00001" summary="day 05">
       <created>1659944396605</created>
@@ -169,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659944396605</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 05">
+      <created>1659962941273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659962941273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
